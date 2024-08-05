@@ -1,0 +1,32 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+options:  # The options key will be applied to all chapters, but not sub-sections
+  numbered: True
+parts:
+- caption: Chapter 1
+  numbered: False
+  chapters:
+  - file: chapter_01/ch01_recipe03
+  - file: chapter_01/ch01_recipe04
+  - file: chapter_01/ch01_recipe05
+  - file: chapter_01/ch01_recipe06
+  - file: chapter_01/ch01_recipe07
+  
+- caption: Chapter 2
+  numbered: False
+  chapters:
+  - file: chapter_02/ch02_recipe01
+  - file: chapter_02/ch02_recipe02
+  - file: chapter_02/ch02_recipe03
+  - file: chapter_02/ch02_recipe04
+  - file: chapter_02/ch02_recipe05
+  - file: chapter_02/ch02_recipe06
+  - file: chapter_02/ch02_recipe07
+  - file: chapter_02/ch02_recipe08
+  - file: chapter_02/ch02_recipe09
+  - file: chapter_02/ch02_recipe10
+  - file: chapter_02/ch02_recipe11
+  - file: chapter_02/ch02_recipe12
