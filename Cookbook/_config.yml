@@ -6,6 +6,8 @@ author: Dialid Santiago
 copyright    : "2024"  # Copyright year to be placed in the footer
 # logo: puzzle.jpeg
 
+only_build_toc_files: true
+
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
 execute:
