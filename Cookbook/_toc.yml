@@ -53,3 +53,6 @@ parts:
       sections:
       - file: chapter_03/ch03_recipe01
       - file: chapter_03/ch03_recipe02
+      - file: chapter_03/ch03_recipe03
+      - file: chapter_03/ch03_recipe04
+      
