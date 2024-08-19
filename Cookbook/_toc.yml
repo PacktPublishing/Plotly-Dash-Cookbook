@@ -55,4 +55,5 @@ parts:
       - file: chapter_03/ch03_recipe02
       - file: chapter_03/ch03_recipe03
       - file: chapter_03/ch03_recipe04
+      - file: chapter_03/ch03_recipe05
       
