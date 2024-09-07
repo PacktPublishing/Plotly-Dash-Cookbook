@@ -59,5 +59,6 @@ parts:
       - file: chapter_03/ch03_recipe06
       - file: chapter_03/ch03_recipe07
       - file: chapter_03/ch03_recipe08
+      - file: chapter_03/ch03_recipe09
       - file: chapter_03/ch03_recipe10
       
