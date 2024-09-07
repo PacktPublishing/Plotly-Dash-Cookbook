@@ -11,4 +11,5 @@ pandas-datareader==0.10.0
 plotly==5.23.0
 requests==2.32.3
 scipy==1.14.0
+xlrd==2.0.1
 yfinance==0.2.41
