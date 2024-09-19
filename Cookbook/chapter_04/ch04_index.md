@@ -2,7 +2,7 @@
 
 - Making Histograms
 - Making 2D-Histograms
-- Creating Box Plots
+- Making Box Plots
 - Making Box Plots better using Jitter
 - Using Violin Plots as an alternative to Box Plots
 - Understanding marginal plots
