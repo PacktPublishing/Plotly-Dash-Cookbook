@@ -1,4 +1,4 @@
-# Chapter 3 Index
+# Chapter 4 Index: Recipes for Statistical Charts
 
 - Making Histograms
 - Making 2D-Histograms
