@@ -1,6 +1,6 @@
 # Chapter 05 Index: Recipes for Intermediate Charts
 
-- Creating an interactive Scatter Plot
+- Creating animated Scatter/Bubble Plots
 - Using faceted Charts
 - Making Bar Charts better
 - Creating sunburst charts
