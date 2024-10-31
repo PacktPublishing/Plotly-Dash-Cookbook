@@ -61,4 +61,24 @@ parts:
       - file: chapter_03/ch03_recipe08
       - file: chapter_03/ch03_recipe09
       - file: chapter_03/ch03_recipe10
-      
+
+  - caption: Chapter 4. Recipes for Statistical Charts
+    numbered: False  
+    chapters:
+    - file: chapter_04/ch04_intro
+      options:  
+        numbered: 1
+        maxdepth: 2
+      sections:
+      - file: chapter_04/ch04_recipe01
+      - file: chapter_04/ch04_recipe02
+      - file: chapter_04/ch04_recipe03
+      - file: chapter_04/ch04_recipe04
+      - file: chapter_04/ch04_recipe05
+      - file: chapter_04/ch04_recipe06
+      - file: chapter_04/ch04_recipe07
+      - file: chapter_04/ch04_recipe08
+      - file: chapter_04/ch04_recipe09
+      - file: chapter_04/ch04_recipe10
+      - file: chapter_04/ch04_recipe11
+      - file: chapter_04/ch04_recipe12
