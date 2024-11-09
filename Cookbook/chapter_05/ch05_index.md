@@ -3,9 +3,9 @@
 - Creating animated Scatter/Bubble Plots
 - Using faceted Charts
 - Making Bar Charts better
-- Creating sunburst charts
-- Creating Heat maps
+- Creating Sunburst charts
 - Creating Icicle charts
+- Creating Heat maps
 - Creating Waterfall Chart
 - Playing with axes in Plotly
 - Making a Basic Table with Plotly
