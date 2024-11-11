@@ -6,7 +6,7 @@
 - Creating Sunburst charts
 - Creating Icicle charts
 - Creating Heat maps
-- Creating Waterfall Chart
+- Creating Waterfall Charts
 - Playing with axes in Plotly
 - Making a Basic Table with Plotly
 - Making a Dash data table
