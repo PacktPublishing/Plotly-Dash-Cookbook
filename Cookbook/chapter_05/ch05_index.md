@@ -8,5 +8,5 @@
 - Creating Heat maps
 - Creating Waterfall Charts
 - Playing with axes in Plotly
-- Making a Basic Table with Plotly
+- Making Basic Tables with Plotly
 - Making a Dash data table
