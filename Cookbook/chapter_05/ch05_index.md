@@ -2,11 +2,10 @@
 
 - Creating animated Scatter/Bubble Plots
 - Using faceted Charts
-- Making Bar Charts better
+- Making Better Bar Charts
 - Creating Sunburst charts
 - Creating Icicle charts
 - Creating Heat maps
 - Creating Waterfall Charts
 - Playing with axes in Plotly
 - Making Basic Tables with Plotly
-- Making a Dash data table
