@@ -7,5 +7,5 @@
 - Creating Icicle charts
 - Creating Heat maps
 - Creating Waterfall Charts
-- Playing with axes in Plotly
+- Using dual-axes in Plotly
 - Making Basic Tables with Plotly
